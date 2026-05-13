@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm iamdeep196</h1>
+<h1 align="center">Hi 👋, I'm Sandeep</h1>
 <h3 align="center">A passionate backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsandeep196&label=Profile%20views&color=0e75b6&style=flat" alt="iamsandeep196" /> </p>
@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **Node.js , JavaScript**
 
 - 💬 Ask me about **Node.js , Javascript**
+
+- 📫 How to reach me **iamdeep196@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
