@@ -24,34 +24,36 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🔭 Currently working on **MyQuoteApp**
-- 🌱 Learning **Node.js, JavaScript, React.js**
+- 🌱 Currently learning **Node.js, JavaScript, React.js**
 - 💬 Ask me about **Node.js, Express.js, MongoDB**
 - 📫 Reach me at **iamdeep196@gmail.com**
 - ⚡ Fun fact: I love building backend projects
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://www.codechef.com/users/iamdeep19" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="40" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="40" width="40" style="margin:15px;" />
 </a>
 
 <a href="https://codeforces.com/profile/iamdeep19" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="40" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="40" width="40" style="margin:15px;" />
 </a>
 
 <a href="https://www.leetcode.com/iamdeep19" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40" style="margin:15px;" />
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/sandeep bharati" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="40" width="40" />
+<a href="https://auth.geeksforgeeks.org/user/sandeep%20bharati" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="40" width="40" style="margin:15px;" />
 </a>
+
 </p>
 
 ---
@@ -59,9 +61,7 @@
 # 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,js,nodejs,react,mongodb,git,github,postman,tailwind,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,nodejs,express,mongodb,react,git,github,postman,tailwind,vscode" />
 </p>
 
 ---
@@ -87,15 +87,53 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
 
-# 🚀 Quote
+# 🚀 Featured Project
+
+## ✨ MyQuoteApp
+
+A full-stack quote sharing platform built using:
+
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+
+### Features
+
+- User Authentication
+- Create Quotes
+- Delete Quotes
+- Protected Routes
+- REST API
+- Error Middleware
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsandeep196&theme=tokyo-night" />
+</p>
+
+---
+
+# 💡 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# ⚡ Fun Animation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 </p>
 
 ---
