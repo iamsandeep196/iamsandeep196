@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sandeep</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0072FF&height=200&section=header&text=Sandeep%20Bharati&fontSize=40&fontColor=ffffff"/>
+</p>
 <h3 align="center">A passionate backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsandeep196&label=Profile%20views&color=0e75b6&style=flat" alt="iamsandeep196" /> </p>
