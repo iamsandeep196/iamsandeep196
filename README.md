@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Sandeep%20Bharati&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Node.js%20Developer&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1a1a1a&height=250&section=header&text=Sandeep%20Bharati&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Node.js%20Developer&descAlignY=55&descAlign=50"/>
 </p>
 
-<h1 align="center">
+<h1 align="center" style="color:white;">
   Hi 👋, I'm Sandeep Bharati
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=414141&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+Developer;JavaScript+Enthusiast;MERN+Stack+Learner;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+Developer;JavaScript+Enthusiast;MERN+Stack+Learner;Always+Learning+New+Things" alt="Typing SVG" />
 </h3>
 ---
 
