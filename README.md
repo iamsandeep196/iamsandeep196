@@ -1,6 +1,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0072FF&height=200&section=header&text=Sandeep%20Bharati&fontSize=40&fontColor=ffffff"/>
 </p>
+
+<h1 align="center">
+  Hi 👋, I'm Sandeep Bharati
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+Developer;JavaScript+Learner;MERN+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+</h3>
 <h3 align="center">A passionate backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsandeep196&label=Profile%20views&color=0e75b6&style=flat" alt="iamsandeep196" /> </p>
