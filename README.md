@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:1c1c1c,100:2b2b2b&height=220&section=header&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:1c1c1c,100:2b2b2b&height=250&section=header&animation=fadeIn"/>
 </p>
+
+<h1 align="center">
+  Hi 👋, I'm 
+</h1>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=Sandeep+Bharati;Backend+Developer;Node.js+Developer" />
