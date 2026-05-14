@@ -65,21 +65,20 @@
 </p>
 
 ---
-
-#  GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamsandeep196&theme=tokyonight" />
-</p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsandeep196&layout=compact&theme=tokyonight" height="180em"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamsandeep196&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsandeep196&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-#  GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsandeep196&theme=tokyonight" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=iamsandeep196&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
