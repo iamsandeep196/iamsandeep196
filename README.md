@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🔭 Currently working on **MyQuoteApp**
 - 🌱 Learning **Node.js, JavaScript, React.js**
@@ -34,7 +34,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
 <a href="https://www.codechef.com/users/iamdeep19" target="blank">
@@ -56,7 +56,7 @@
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 <p align="center">
 
@@ -66,7 +66,7 @@
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamsandeep196&show_icons=true&theme=tokyonight" height="180em"/>
@@ -76,7 +76,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsandeep196&theme=tokyonight" />
@@ -84,7 +84,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+#  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
@@ -92,7 +92,7 @@
 
 ---
 
-# 🚀 Quote
+#  Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
