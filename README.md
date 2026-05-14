@@ -30,7 +30,7 @@ Backend Developer • Node.js Developer • MERN Stack Learner
   <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/sandeep bharati">
+<a href="https://auth.geeksforgeeks.org/user/iamdeep19">
   <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
