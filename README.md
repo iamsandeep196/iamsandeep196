@@ -14,7 +14,7 @@ Backend Developer • Node.js Developer • MERN Stack Learner
 
 ---
 
-## 🌐 Coding Profiles
+##  Coding Profiles
 
 <p align="center">
 
@@ -48,7 +48,7 @@ Backend Developer • Node.js Developer • MERN Stack Learner
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,nodejs,react,mongodb,express,git,github,postman,tailwind,vscode" />
@@ -56,19 +56,7 @@ Backend Developer • Node.js Developer • MERN Stack Learner
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamsandeep196&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsandeep196&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=iamsandeep196&theme=tokyonight&hide_border=true"/>
@@ -76,7 +64,7 @@ Backend Developer • Node.js Developer • MERN Stack Learner
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iamsandeep196&theme=tokyonight&row=1&column=6"/>
@@ -84,7 +72,7 @@ Backend Developer • Node.js Developer • MERN Stack Learner
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
