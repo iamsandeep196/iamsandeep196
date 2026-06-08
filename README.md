@@ -66,12 +66,7 @@ Backend Developer • Node.js Developer • MERN Stack Learner
 
 ##  GitHub Trophies
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=iamsandeep196&theme=tokyonight&row=1&column=6"
-    alt="GitHub Trophies"
-  />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=iamsandeep196&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ##  Contribution Snake
